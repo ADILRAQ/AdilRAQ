@@ -1,7 +1,7 @@
 [![araqioui's 42 stats](https://badge42.vercel.app/api/v2/clia5idja001608jro47fyo0w/stats?cursusId=21&coalitionId=75)](https://github.com/JaeSeoKim/badge42)
 <h1 align="center">Hi 👋, I'm Adil Raqioui</h1>
 <h3 align="center">I'm a student at 1337kh from Morocco</h3>
-<img aling="right" alt="moving ball" width="400px" src"https://i.pinimg.com/originals/4d/8b/fb/4d8bfb98cf6b0a6c3354ff570bfa1212.gif">
+<img aling="right" alt="moving ball" width="400px" src"https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilraq&label=Profile%20views&color=0e75b6&style=flat" alt="adilraq" /> </p>
 
