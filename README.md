@@ -1,9 +1,11 @@
-[![araqioui's 42 stats](https://badge42.vercel.app/api/v2/clia5idja001608jro47fyo0w/stats?cursusId=21&coalitionId=75)](https://github.com/JaeSeoKim/badge42)
 <h1 align="center">Hi 👋, I'm Adil Raqioui</h1>
 <h3 align="center">I'm a student at 1337kh from Morocco</h3>
-<p aling="right"><img alt="moving ball" width="400px" src="https://33.media.tumblr.com/435313ecab23b357c4d519f0e35ae8c8/tumblr_neyuw3MZmO1rgc94co1_500.gif"></p>
+<div align="center">
+[![araqioui's 42 stats](https://badge42.vercel.app/api/v2/clia5idja001608jro47fyo0w/stats?cursusId=21&coalitionId=75)](https://github.com/JaeSeoKim/badge42)
+ </div>
+<div aling="right"><img alt="moving ball" width="400px" src="https://33.media.tumblr.com/435313ecab23b357c4d519f0e35ae8c8/tumblr_neyuw3MZmO1rgc94co1_500.gif"></div>
 
-<div> <img align="right" src="https://komarev.com/ghpvc/?username=adilraq&label=Profile%20views&color=0e75b6&style=flat" alt="adilraq" /> </div>
+<p> <img align="right" src="https://komarev.com/ghpvc/?username=adilraq&label=Profile%20views&color=0e75b6&style=flat" alt="adilraq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilraq" alt="adilraq" /></a> </p>
 
