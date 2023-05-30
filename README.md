@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adil Raqioui</h1>
 <h3 align="center">I'm a student at 1337kh from Morocco</h3>
+<img src"https://i.pinimg.com/originals/eb/bd/f7/ebbdf7ce4f7f502d1f28b96b5cbd7a1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilraq&label=Profile%20views&color=0e75b6&style=flat" alt="adilraq" /> </p>
 
