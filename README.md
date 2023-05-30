@@ -3,7 +3,7 @@
 <h3 align="center">I'm a student at 1337kh from Morocco</h3>
 <p aling="right"><img alt="moving ball" width="400px" src="https://33.media.tumblr.com/435313ecab23b357c4d519f0e35ae8c8/tumblr_neyuw3MZmO1rgc94co1_500.gif"></p>
 
-<div align="right"> <img src="https://komarev.com/ghpvc/?username=adilraq&label=Profile%20views&color=0e75b6&style=flat" alt="adilraq" /> </div>
+<div> <img align="right" src="https://komarev.com/ghpvc/?username=adilraq&label=Profile%20views&color=0e75b6&style=flat" alt="adilraq" /> </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilraq" alt="adilraq" /></a> </p>
 
