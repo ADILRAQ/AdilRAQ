@@ -11,8 +11,6 @@ I'm a self-taught at 42 Network, specifically 1337 Khouribga
 
 ![Profile views](https://gpvc.arturio.dev/ADILRAQ)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ADILRAQ)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ADILRAQ)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADILRAQ)](https://github.com/anuraghazra/github-readme-stats)
