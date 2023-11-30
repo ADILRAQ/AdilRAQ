@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilraq&label=Profile%20views&color=0e75b6&style=flat" alt="adilraq" /> </p>
 
-- 🌱 I’m currently learning **JS and NodeJS**
+- 🌱 I’m currently learning **JS / NodeJS / Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADILRAQ?tab=repositories](https://github.com/ADILRAQ?tab=repositories)
 
 - 💬 Ask me about **C/C++**
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6525220aaf6669e10978bb3c?variant=dark" alt="roadmap.sh"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
