@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Adil and I'm a Web Developmer Specialist | Software Engineer, from Morocco</h2>
+<h2 align="center">Hi 👋! My name is Adil and I'm a Web Developer Specialist | Software Engineer, from Morocco</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
